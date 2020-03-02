@@ -7,7 +7,6 @@ import java.util.Arrays;
 public class LeetCode_1365 {
 
     public static void main(String[] args) {
-        // write your code here
         int[] nums = new int[]{6,5,4,8};
         System.out.println(Arrays.toString(smallerNumbersThanCurrent(nums)));
     }
